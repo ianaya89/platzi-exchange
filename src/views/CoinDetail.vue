@@ -91,7 +91,6 @@
             >
               <slot>Obtener Link</slot>
             </px-button>
-
             <a v-else class="hover:underline text-green-600" target="_blanck">{{ m.url }}</a>
           </td>
         </tr>
