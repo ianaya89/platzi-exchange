@@ -7,17 +7,17 @@
 </template>
 
 <script>
-import PxHeader from "@/components/PxHeader";
+import PxHeader from '@/components/PxHeader'
 
 export default {
-  name: "app",
+  name: 'app',
   components: { PxHeader }
-};
+}
 </script>
 
 <style>
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
